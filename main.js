@@ -57,10 +57,10 @@ var __decorate = (undefined && undefined.__decorate) || function (decorators, ta
 
 var appRoutes = [
     {
-        path: 'home',
+        path: '',
         loadChildren: './components/home/home.module#HomeModule'
     },
-    { path: '**', redirectTo: '/home' }
+    { path: '**', redirectTo: '/' }
 ];
 var AppRoutingModule = /** @class */ (function () {
     function AppRoutingModule() {
@@ -489,7 +489,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! G:\www\somestring.github.io\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! G:\www\DinamicApp\src\main.ts */"./src/main.ts");
 
 
 /***/ })

@@ -539,7 +539,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! G:\www\somestring.github.io\src\styles.scss */"./src/styles.scss");
+module.exports = __webpack_require__(/*! G:\www\DinamicApp\src\styles.scss */"./src/styles.scss");
 
 
 /***/ })
